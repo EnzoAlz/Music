@@ -17,7 +17,5 @@ color: chartreuse;  }
 
 <a href="https://enzoalz.github.io/Music/2000.html" class="btn btn-primary">Click here to go back to the 2000's-2020's! </a>
 
-<li>  1111111111111111111
-</li>
 </body>
 </html>
