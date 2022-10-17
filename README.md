@@ -1,14 +1,11 @@
 <html>
-<Body>
-    <body style="background-color:rgb(18, 18, 18);"></body>
-<title>
-    This is the back of the website!
+<Body>  <body style="background-color:rgb(18, 18, 18);"></body>
+<title>  This is the back of the website!
 </title>
 <body>
 <style>
-  a {
-color: chartreuse;
-    }
+a {
+color: chartreuse;  }
 </style>
 <a href="https://enzoalz.github.io/Music/" class="btn btn-primary">Click here to go back to the front page! </a>
 
@@ -20,8 +17,7 @@ color: chartreuse;
 
 <a href="https://enzoalz.github.io/Music/2000.html" class="btn btn-primary">Click here to go back to the 2000's-2020's! </a>
 
-<li>
-    1111111111111111111
+<li>  1111111111111111111
 </li>
 </body>
 </html>
